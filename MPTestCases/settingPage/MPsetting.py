@@ -48,7 +48,7 @@ class MPsetting(unittest.TestCase):
 		sleep(5)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -74,7 +74,7 @@ class MPsetting(unittest.TestCase):
 		sleep(5)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -117,7 +117,7 @@ class MPsetting(unittest.TestCase):
 		sleep(2)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -130,7 +130,7 @@ class MPsetting(unittest.TestCase):
 		sleep(2)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -143,7 +143,7 @@ class MPsetting(unittest.TestCase):
 		sleep(2)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -157,7 +157,7 @@ class MPsetting(unittest.TestCase):
 		sleep(5)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -181,7 +181,7 @@ class MPsetting(unittest.TestCase):
 		sleep(5)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -211,7 +211,7 @@ class MPsetting(unittest.TestCase):
 		sleep(0.5)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/checkBox3').click()  #选中剪辑不方便
 		sleep(0.5)
-		self.driver.swipe(200,800,200,200,1000) #向上滑动页面
+		self.driver.swipe(200,1000,200,100,1000) #向上滑动页面
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/checkBox4').click()  #选中画面不清晰
 		sleep(0.5)
@@ -306,7 +306,7 @@ class MPsetting(unittest.TestCase):
 		sleep(5)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -325,7 +325,7 @@ class MPsetting(unittest.TestCase):
 		sleep(5)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
@@ -363,7 +363,7 @@ class MPsetting(unittest.TestCase):
 		sleep(5)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/bottom_my').click() #点击底导的我
 		sleep(2)
-		self.driver.swipe(200,800,200,200,1000) #我的页面向上滑动
+		self.driver.swipe(200,1000,200,100,1000) #我的页面向上滑动
 		sleep(1)
 		self.driver.find_element_by_id('com.yixia.videoeditor:id/setting_layout').click() #我的页面点击设置
 		sleep(2)
